@@ -1,2 +1,10 @@
 https://www.flaticon.com/free-icons/integration
 https://optimistic-bhabha-512d45.netlify.app
+
+générer appcache manifest: 
+echo "CACHE MANIFEST" > manifest.appcache; find . -type f | sed "s#^\./##" >> manifest.appcache
+
+2 RUE SERGE GAINSBOURG
+RES J VILAR BT B2 RC APPT 46
+31700 BLAGNAC
+
